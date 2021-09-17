@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "97c9f1f82d45e2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "18cfd175175f0de3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PHY 211/Newtonian/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3b38cb82336dc3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abcf6156957e9f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3788658f6a0f2c10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19a5b900df754be1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CECFC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9be8bbc3ba04134a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c37972f53c871dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b08fa8dba0809a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHY 211/Newtonian/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8e03cb3d01eb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a499dd1fb41ee3a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5d0f6a15641e828",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c99a51e8efd3b956",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "18cfd175175f0de3",
+  "lastOpenFiles": [
+    "PHY 211/Newtonian/Untitled.md",
+    "Untitled.md",
+    "CECFC Newsletters/Division of Information.md",
+    "CECFC Newsletters/Organize by importance.md",
+    "CECFC Newsletters/List of Clubs.md",
+    "CECFC Newsletters/Tasklist.md",
+    "CECFC Newsletters/Template.md",
+    "CECFC Newsletters/Formatting.md",
+    "CECFC Newsletters/Organize be importance.md",
+    "CECFC Newsletters/Order of Content.md"
+  ]
+}
